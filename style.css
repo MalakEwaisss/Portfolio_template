@@ -45,9 +45,9 @@ section {
   min-height: 100vh;
   display: flex;
   align-items: center;
-  background: url(lastttt.jpg) no-repeat;
+  background: url(terquaz.jpg) no-repeat;
   background-size: cover;
-  background-position: right center;
+  background-position: right top;
   background-attachment: fixed;
 }
 .main h2 {
